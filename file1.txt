@@ -1,1 +1,3 @@
- hi i am learning git & gihubS
+ hi i am learning git & gihub
+ hi whats up 
+ 

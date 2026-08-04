@@ -1,3 +1,5 @@
  hi i am learning git & gihub
  hi whats up 
  hi i am trying to track changes :)
+
+ hey i am practicing 3 way branch merging

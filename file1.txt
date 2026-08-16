@@ -1,3 +1,7 @@
  hi i am learning git & gihub
  hi whats up 
  hi i am trying to track changes :)
+
+ i amm on master barnch
+ 
+
